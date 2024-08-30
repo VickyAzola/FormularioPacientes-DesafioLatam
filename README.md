@@ -10,7 +10,7 @@
 ## Descripción
 
 Este proyecto es una página estatica que muestra un formulario para crear un paciente.
-Los datos son agregados al formulario y mediante el uso de v-model, Semits e interpolación de Vue.js se crean cartas con la información, dependiendo de su gravedad el color varía, además se pueden eliminar si se desea.
+Los datos son agregados al formulario y mediante el uso de v-model, $emits e interpolación de Vue.js se crean cartas con la información, dependiendo de su gravedad el color varía, además se pueden eliminar si se desea.
 
 ## Tecnologías Utilizadas
 
