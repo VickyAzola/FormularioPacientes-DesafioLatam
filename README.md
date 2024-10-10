@@ -12,6 +12,10 @@
 Este proyecto es una página estatica que muestra un formulario para crear un paciente.
 Los datos son agregados al formulario y mediante el uso de v-model, $emits e interpolación de Vue.js se crean cartas con la información, dependiendo de su gravedad el color varía, además se pueden eliminar si se desea.
 
+[Revisa la página aquí](https://formulariopacientes-desafiolatam.netlify.app/)
+
+![crearpacientes](https://github.com/user-attachments/assets/14c3da0a-2637-407c-88f3-b1f73a4ab43b)
+
 ## Tecnologías Utilizadas
 
 - **HTML5**: Para la estructura del sitio web.
